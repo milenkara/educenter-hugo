@@ -31,6 +31,7 @@ fields:
   name: weekly
   label: weekly
   description: Course time per week
+  hidden: true
 - type: text
   name: apply_url
   label: apply_url

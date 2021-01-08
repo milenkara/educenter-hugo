@@ -28,10 +28,6 @@ fields:
   label: teacher
   description: 'Ex: John Doe'
 - type: text
-  name: duration
-  label: duration
-  description: Course Duration
-- type: text
   name: weekly
   label: weekly
   description: Course time per week
